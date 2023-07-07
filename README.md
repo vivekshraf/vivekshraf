@@ -1,4 +1,4 @@
-<img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Hi,%20This%20is%20My%20Website%20Er_%20Vivek%20shraff&width=800&height=400"  >
+<img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Hi,%20This%20is%20My%20Website%20Er_%20Vivek&width=800&height=400"  >
 
 - 🔭 I’m currently working on Android Dev
 - 🌱 I’m currently learning Android Java
