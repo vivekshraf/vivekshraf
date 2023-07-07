@@ -6,4 +6,4 @@
 - 💬 Ask me about HTML, CSS
 - 📫 How to reach me: vivekshroffstm1255@gmail.com
 - 😄 Pronouns: He/Him
-<img src="https://github-readme-stats.vercel.app/api?username=ayush0090&show_icons=true&locale=en&theme=gotham&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=vivekshraf&show_icons=true&locale=en&theme=gotham&hide_border=true">
