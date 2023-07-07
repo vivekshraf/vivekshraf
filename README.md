@@ -7,12 +7,7 @@
 - 📫 How to reach me: vivekshroffstm1255@gmail.com
 - 😄 Pronouns: He/Him
 <img src="https://github-readme-stats.vercel.app/api?username=vivekshraf&show_icons=true&locale=en&theme=gotham&hide_border=true">
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/vfitness_143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vfitness_143" height="30" width="40" /></a>
-</p>
+ 
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
